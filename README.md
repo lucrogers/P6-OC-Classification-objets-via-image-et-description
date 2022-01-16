@@ -29,7 +29,7 @@ En se basant sur les données texte (description de l'objet) et des données ima
   - clustering sur les descripteurs
   - réduction de dimensions ACP
   - réduction de dimensions t-SNE et visualisation 2D des clusters
-  - transfer learning sur réseau de neurones convolutionnels pré-entraînés:
+  - transfer learning sur réseaux de neurones convolutionnels pré-entraînés:
     - VGG16
     - mobilenet v2
 
