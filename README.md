@@ -10,7 +10,7 @@ La plateforme de e-commerce "Place de marché" souhaite développer un outil de 
 
 En se basant sur les données texte (description de l'objet) et des données images (photo de l'objet), un modèle de classification automatique est proposé.
 
-**Conclusions: **
+** Conclusions: **
 - Données texte: taux de classification de 93% sur les descriptions objets
 - Données images: taux de classification de 80% via transfer learning sur le réseau de neurones pré-entraîné *mobilenet v2*
 
