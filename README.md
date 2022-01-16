@@ -18,7 +18,7 @@ En se basant sur les données texte (description de l'objet) et des données ima
 - Données texte (NLP):
   - nettoyage du texte (passage en minuscules, nettoyage pnctuation, suppression des stop words)
   - fonction de racination (stemmer) ou lématisation (lemmer)
-  - tokenisation du texte
+  - tokenisation du texte (TF-IDF, bi-grammes de mots)
   - feature extraction
   - réduction de dimensions SVD (décomposition en valeurs singulières)
   - clustering K-Means
