@@ -15,7 +15,7 @@ En se basant sur les données texte (description de l'objet) et des données ima
 - Données images: taux de classification de 80% via transfer learning sur le réseau de neurones pré-entraîné *mobilenet v2*
 
 ## Travail réalisé
-- Données texte:
+- Données texte (NLP):
   - nettoyage du texte (passage en minuscules, nettoyage pnctuation, suppression des stop words)
   - fonction de racination (stemmer) ou lématisation (lemmer)
   - tokenisation du texte
